@@ -1,5 +1,5 @@
 Beste collega
-Welkom op de github pagina van Regiop;lan.
+Welkom op de github pagina van Regioplan.
 Alle data gerelateerde producten die regioplan aanbied op een overzichtelijke pagina.
 
 <!---
